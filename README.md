@@ -1,14 +1,18 @@
 <div align="center">
 
 <img
-  src="https://capsule-render.vercel.app/api?type=rect&height=220&color=0D1117&text=PEMBA%20GURUNG&fontColor=58A6FF&fontSize=46&fontAlign=50&fontAlignY=30&desc=Full-Stack%20Software%20Engineer%20%7C%20Backend%20%E2%80%A2%20Frontend%20%E2%80%A2%20Cloud%20%7C%20Java%20%E2%80%A2%20Spring%20Boot%20%E2%80%A2%20React%20%E2%80%A2%20Node.js%20%E2%80%A2%20TypeScript%20%E2%80%A2%20AWS&descAlign=50&descAlignY=65&descSize=16"
+  src="https://capsule-render.vercel.app/api?type=rect&height=180&color=0D1117&text=PEMBA%20GURUNG&fontColor=58A6FF&fontSize=46&fontAlign=50&fontAlignY=38&desc=Full-Stack%20Software%20Engineer&descColor=FFFFFF&descSize=20&descAlign=50&descAlignY=65"
   width="100%"
   alt="Pemba Gurung — Full-Stack Software Engineer"
 />
 
+**Building scalable software · Designing reliable systems · Solving real-world problems**
+
 <br/>
 
-**Building scalable software · Designing reliable systems · Solving real-world problems**
+**Backend • Frontend • Cloud • Distributed Systems**
+
+`Java` `Spring Boot` `React` `Node.js` `TypeScript` `AWS`
 
 <br/><br/>
 
