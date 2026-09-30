@@ -13,7 +13,7 @@ Building scalable applications, secure APIs, cloud-native systems, and reliable 
 <a href="https://github.com/pembag">
   <img src="https://img.shields.io/badge/GitHub-pembag-181717?style=for-the-badge&logo=github" alt="GitHub"/>
 </a>
-<a href="https://www.linkedin.com/">
+<a href="https://www.linkedin.com/pembag">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
 </a>
 
