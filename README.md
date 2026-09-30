@@ -64,7 +64,7 @@ My engineering experience spans the full application lifecycle — from **backen
 ### Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,js,ts,html,css, Angular&theme=dark" alt="Frontend technologies"/>
+<img src="https://skillicons.dev/icons?i=react,js,ts,html,css,angular&theme=dark" alt="Frontend technologies"/>
 </p>
 
 **React.js · JavaScript · TypeScript · HTML · CSS · Angular**
