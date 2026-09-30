@@ -72,7 +72,7 @@ My engineering experience spans the full application lifecycle — from **backen
 ### Databases & Data
 
 <p>
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,kafka&theme=dark" alt="Database and data technologies"/>
+<img src="https://skillicons.dev/icons?i=postgres,oracle,sqlserver,mongodb,redis,kafka&theme=dark" alt="Database and data technologies"/>
 </p>
 
 **PostgreSQL · Oracle · SQL Server · MySQL · MongoDB · Redis · Kafka**
