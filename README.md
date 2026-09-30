@@ -248,15 +248,12 @@ Refactor & improve
 <div align="center">
 
 <a href="https://github.com/pembag">
-  <img src="https://img.shields.io/badge/Projects%20%26%20Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Projects & Code"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=pembag&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=79C0FF&text_color=C9D1D9&include_all_commits=true" alt="Pemba's GitHub Stats"/>
 </a>
 
-&nbsp;&nbsp;
-
-<a href="https://www.linkedin.com/in/pembag">
-  <img src="https://img.shields.io/badge/Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Let's Connect"/>
+<a href="https://github.com/pembag">
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pembag&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" alt="Top Languages"/>
 </a>
-
 <br/><br/>
 
 <img src="https://streak-stats.demolab.com?user=pembag&theme=dark&hide_border=true&background=0D1117&ring=58A6FF&fire=79C0FF&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E" alt="GitHub Contribution Streak"/>
@@ -318,12 +315,8 @@ If you're interested in **software engineering, system design, cloud technologie
 
 <br/>
 
-<a href="https://github.com/pembag">
-<img src="https://img.shields.io/badge/GitHub-pembag-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-
-<a href="https://www.linkedin.com/pemba-gurung">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+<a href="https://www.linkedin.com/in/pembag">
+  <img src="https://img.shields.io/badge/Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Let's Connect"/>
 </a>
 
 </div>
