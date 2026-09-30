@@ -1,460 +1,354 @@
-<!--
-  GitHub Profile README
-  Replace:
-  - YOUR_GITHUB_USERNAME
-  - YOUR_LINKEDIN_USERNAME
-  - PROJECT_* placeholders
--->
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,50:2563EB,100:7C3AED&height=220&section=header&text=PEMBA%20GURUNGI&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=Technical%20Lead%20%7C%20Developer%20%7C%20Mentor%20%7C%20Educator&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+# 👋 Hi, I'm Pemba Gurung
+
+### Full-Stack Software Engineer
+
+**Java • Spring Boot • React • Node.js • TypeScript • AWS • Microservices**
+
+Building scalable applications, secure APIs, cloud-native systems, and reliable software across **financial services, healthcare, energy, and technology**.
 
 <br/>
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=00E5FF&center=true&vCenter=true&width=850&lines=Technical+Lead+%E2%80%A2+Development+Vertical;Software+Developer+%E2%80%A2+Technical+Mentor;Teaching+%26+Mentoring+%E2%80%A2+6%2B+Years;Learn+%E2%80%A2+Build+%E2%80%A2+Share+%E2%80%A2+Lead;Turning+Ideas+into+Reliable+Software" alt="Typing animation" />
+<a href="https://github.com/pembag">
+  <img src="https://img.shields.io/badge/GitHub-pembag-181717?style=for-the-badge&logo=github" alt="GitHub"/>
 </a>
-
-<br/><br/>
-
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
-  <img src="https://img.shields.io/badge/GitHub-YOUR_GITHUB_USERNAME-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=161B22" alt="GitHub"/>
+<a href="https://www.linkedin.com/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
 </a>
-&nbsp;
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME">
-  <img src="https://img.shields.io/badge/LinkedIn-YOUR_LINKEDIN_USERNAME-0D1117?style=for-the-badge&logo=linkedin&logoColor=00E5FF&labelColor=161B22" alt="LinkedIn"/>
-</a>
-&nbsp;
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=2563EB&label=PROFILE+VISITORS" alt="Profile visitors"/>
 
 </div>
 
 ---
 
-## `01` · WHO I AM
+## 👨‍💻 About Me
 
-<table>
-<tr>
-<td width="58%" valign="top">
+I’m a **Full-Stack Software Engineer with 6+ years of experience** building and supporting scalable enterprise applications across **financial services, healthcare, energy, and technology environments**.
 
-### Building software. Growing developers. Leading teams.
+My engineering experience spans the full application lifecycle — from **backend services and secure APIs** to **frontend applications, databases, cloud infrastructure, and CI/CD pipelines**.
 
-I'm **PEMBA GURUNG**, a **FUll Stack Developer** with **6+ years of experience building scalable, user-focused software with             │
-│   Java, Spring Boot, React, TypeScript & AWS **.
+### What I Bring
 
-My work sits at the intersection of:
-
-* **Software Development**
-* **Developer Mentoring**
-* **Software Designing**
-* **Code Quality**
-* **Problem Solving**
-* **Team Collaboration**
-* **Continuous Learning**
-
-I believe great engineering is not only about writing code.
-
-It's about **understanding the problem, designing the right solution, building it well, helping others grow, and continuously improving the system and the people around it.**
-
-</td>
-
-<td width="42%" valign="top">
-
-```text
-┌─────────────────────────────────┐
-│        developer@pemba:~$      │
-├─────────────────────────────────┤
-│                                 │
-│  role      → Full Stack Engineer     │
-│  focus     → Software Dev       │
-│  experience→ 6+ years           │
-│  mindset   → Continuous Growth  │
-│                                 │
-│  skills:                        │
-│    ├─ Build                    │
-│    ├─ Debug                    │
-│    ├─ Design                   │
-│    ├─ Collab                   │
-│    └─ Lead                     │
-│                                 │
-│  status → Always Learning       │
-│                                 │
-│  $ ./keep-building.sh           │
-│  ████████████████████ 100%      │
-│                                 │
-└─────────────────────────────────┘
-```
-
-</td>
-</tr>
-</table>
+| Area                      | Experience                                                          |
+| ------------------------- | ------------------------------------------------------------------- |
+| **Backend Engineering**   | Java, Spring Boot, Spring Security, REST APIs, Python, Node.js       |
+| **Frontend Engineering**  | React.js, JavaScript, TypeScript                           |
+| **Cloud & DevOps**        | AWS, Docker, Kubernetes, CI/CD                                      |
+| **Data & Messaging**      | PostgreSQL, Oracle, SQL Server, MongoDB, Kafka, Redis               |
+| **Architecture**          | Microservices, Event-Driven Systems, API Integration                |
+| **Engineering Practices** | Secure Development, Testing, Code Quality, Debugging, Collaboration |
 
 ---
 
-## `02` · ENGINEERING IDENTITY
-
-<div align="center">
-
-|        `DEVELOP`        |             `LEAD`            |          `MENTOR`         |          `EDUCATE`          |
-| :---------------------: | :---------------------------: | :-----------------------: | :-------------------------: |
-| Build reliable software |   Guide technical direction   |      Grow developers      |  Simplify complex concepts  |
-|     Design solutions    | Improve engineering practices | Share practical knowledge | Create learning experiences |
-|      Solve problems     |     Collaborate with teams    |  Give actionable feedback |     Encourage curiosity     |
-
-</div>
-
-<br/>
-
-> **I don't just want to write better code.
-> I want to help build better engineers, better systems, and better engineering cultures.**
-
----
-
-## `03` · TECH STACK
-
-### Frontend
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,react&theme=dark" alt="Frontend technologies"/>
-
-</div>
+## 🧰 Technical Stack
 
 ### Backend
 
+<p>
+<img src="https://skillicons.dev/icons?i=java,spring,nodejs,express&theme=dark" alt="Backend technologies"/>
+</p>
+
+**Java · Spring Boot · Spring Security · Microservices · Node.js · Express.js · REST APIs · Python**
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,js,ts,html,css&theme=dark" alt="Frontend technologies"/>
+</p>
+
+**React.js · JavaScript · TypeScript · HTML · CSS · Angular**
+
+### Databases & Data
+
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,kafka&theme=dark" alt="Database and data technologies"/>
+</p>
+
+**PostgreSQL · Oracle · SQL Server · MySQL · MongoDB · Redis · Kafka**
+
+### Cloud & DevOps
+
+<p>
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,git,github&theme=dark" alt="Cloud and DevOps technologies"/>
+</p>
+
+**AWS · Docker · Kubernetes · CI/CD · Git · GitHub**
+
+---
+
+## 🏗️ Engineering Focus
+
+```text
+                    FULL-STACK ENGINEERING
+                            │
+          ┌─────────────────┼─────────────────┐
+          │                 │                 │
+       FRONTEND          BACKEND           CLOUD
+          │                 │                 │
+       React.js        Spring Boot          AWS
+       TypeScript      Microservices        Docker
+       JavaScript      REST APIs             Kubernetes
+                       Security              CI/CD
+          │                 │                 │
+          └─────────────────┼─────────────────┘
+                            │
+                    DATA & INTEGRATION
+                            │
+          PostgreSQL • Oracle • SQL Server
+              MongoDB • Kafka • Redis
+```
+
+My focus is on building software that is:
+
+**Scalable → Secure → Maintainable → Observable → Reliable**
+
+---
+
+## 🚀 Featured Projects
+
+A selection of projects demonstrating full-stack development, data engineering, and software engineering fundamentals.
+
+### 🎯 [Full-Stack POS & KDS](https://github.com/pembag/Full-Stack-Project-POS-KDS)
+
+**Point-of-Sale & Kitchen Display System**
+
+A full-stack POS/KDS application designed for a food-truck-style business, covering ordering and kitchen workflows.
+
+`TypeScript` · `Full Stack` · `POS` · `KDS`
+
+[View Repository →](https://github.com/pembag/Full-Stack-Project-POS-KDS)
+
+---
+
+### 🤖 [Nestly](https://github.com/pembag/Nestly)
+
+**Home Matching Web Application**
+
+A web application focused on matching home buyers with suitable properties.
+
+`TypeScript` · `Web Application` · `Full Stack`
+
+[View Repository →](https://github.com/pembag/Nestly)
+
+---
+
+### 🗄️ [ETL Pipeline](https://github.com/pembag/ETL-Pipeline)
+
+**Data Ingestion & Processing Pipeline**
+
+A Python-based ETL project demonstrating data ingestion, transformation, processing, and loading workflows.
+
+`Python` · `ETL` · `Data Engineering`
+
+[View Repository →](https://github.com/pembag/ETL-Pipeline)
+
+---
+
+### 🧩 [IMDB Dataset Preprocessing & Loading](https://github.com/pembag/IMDB-Dataset-Preprocessing-and-Loading-main)
+
+**Data Engineering Project**
+
+Dataset preprocessing and loading workflow built around the IMDB dataset.
+
+`Data Engineering` · `Data Processing` · `Python`
+
+[View Repository →](https://github.com/pembag/IMDB-Dataset-Preprocessing-and-Loading-main)
+
+---
+
+### 🧪 [TaskQuack](https://github.com/pembag/SEIS_739_Project)
+
+**Task Management System — Capstone Project**
+
+A task-management application developed as a graduate capstone project.
+
+`TypeScript` · `Full Stack` · `Software Engineering`
+
+[View Repository →](https://github.com/pembag/SEIS_739_Project)
+
+---
+
+### 🍽️ [Odin Recipes](https://github.com/pembag/odin-recipes)
+
+**Recipe Website**
+
+A personal recipe website built to practice fundamental web development and deployed using GitHub Pages.
+
+`HTML` · `GitHub Pages`
+
+[View Repository →](https://github.com/pembag/odin-recipes)
+
+---
+
+## 💡 Engineering Principles
+
+> ### **"Make it work. Make it right. Make it better."**
+
+I believe good software engineering is an iterative process:
+
+```text
+Understand the problem
+        ↓
+Design the solution
+        ↓
+Build with purpose
+        ↓
+Test & validate
+        ↓
+Measure & observe
+        ↓
+Refactor & improve
+```
+
+### My Development Mindset
+
+**Readable code > clever code**
+
+**Simple design > unnecessary complexity**
+
+**Automation > repetitive work**
+
+**Tests > assumptions**
+
+**Continuous improvement > perfection**
+
+---
+
+## 🔍 What I'm Interested In
+
+```text
+┌─────────────────────────────────────────────────────┐
+│                                                     │
+│  ▸ Full-Stack Software Engineering                 │
+│  ▸ Backend & Distributed Systems                    │
+│  ▸ Microservices Architecture                       │
+│  ▸ Cloud-Native Development                         │
+│  ▸ Secure API Development                           │
+│  ▸ Event-Driven Architecture                        │
+│  ▸ Data & Integration Engineering                   │
+│  ▸ CI/CD & Developer Productivity                   │
+│  ▸ Scalable & Maintainable Software                 │
+│                                                     │
+└─────────────────────────────────────────────────────┘
+```
+
+---
+
+## 📊 GitHub Activity
+
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" alt="Backend technologies"/>
+<a href="https://github.com/pembag">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=pembag&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=79C0FF&text_color=C9D1D9&include_all_commits=true" alt="Pemba's GitHub Stats"/>
+</a>
 
-</div>
-
-### Database
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=mongodb&theme=dark" alt="Database technologies"/>
-
-</div>
-
-### Tools & Workflow
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark" alt="Development tools"/>
+<a href="https://github.com/pembag">
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pembag&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" alt="Top Languages"/>
+</a>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/REST%20APIs-0D1117?style=for-the-badge&logo=fastapi&logoColor=00E5FF" alt="REST APIs"/>
-<img src="https://img.shields.io/badge/Problem%20Solving-0D1117?style=for-the-badge&logo=leetcode&logoColor=FFA116" alt="Problem Solving"/>
-<img src="https://img.shields.io/badge/Code%20Review-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="Code Review"/>
-<img src="https://img.shields.io/badge/Agile%20Workflow-0D1117?style=for-the-badge&logo=jira&logoColor=2684FF" alt="Agile Workflow"/>
+<img src="https://streak-stats.demolab.com?user=pembag&theme=dark&hide_border=true&background=0D1117&ring=58A6FF&fire=79C0FF&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E" alt="GitHub Contribution Streak"/>
 
 </div>
 
 ---
 
-## `04` · HOW I APPROACH ENGINEERING
-
-<table>
-<tr>
-<td align="center" width="25%">
-
-### 🔍
-
-**Understand**
-
-Understand the problem before writing the solution.
-
-</td>
-<td align="center" width="25%">
-
-### 🧠
-
-**Design**
-
-Think about architecture, trade-offs and maintainability.
-
-</td>
-<td align="center" width="25%">
-
-### ⚙️
-
-**Build**
-
-Write clean, testable and purposeful code.
-
-</td>
-<td align="center" width="25%">
-
-### ♻️
-
-**Improve**
-
-Measure, learn, refactor and continuously improve.
-
-</td>
-</tr>
-</table>
-
----
-
-## `05` · GITHUB ANALYTICS
+## 📈 Contribution Activity
 
 <div align="center">
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00E5FF&icon_color=7C3AED&text_color=C9D1D9&ring_color=2563EB&include_all_commits=true&count_private=true" alt="GitHub statistics"/>
-</a>
-&nbsp;&nbsp;
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&bg_color=0D1117&title_color=00E5FF&text_color=C9D1D9&icon_color=7C3AED&langs_count=8" alt="Top languages"/>
-</a>
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=dark&hide_border=true&background=0D1117&ring=00E5FF&fire=7C3AED&currStreakLabel=00E5FF&sideLabels=C9D1D9&dates=8B949E" alt="GitHub contribution streak"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=pembag&bg_color=0D1117&color=58A6FF&line=2563EB&point=79C0FF&area=true&hide_border=true" width="100%" alt="GitHub Contribution Activity"/>
 
 </div>
 
 ---
 
-## `06` · CONTRIBUTION ACTIVITY
+## 🐍 Contribution Snake
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&bg_color=0D1117&color=00E5FF&line=2563EB&point=7C3AED&area=true&hide_border=true" width="100%" alt="GitHub contribution activity graph"/>
+<img src="https://raw.githubusercontent.com/pembag/pembag/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub Contribution Snake"/>
 
 </div>
 
 ---
 
-## `07` · CONTRIBUTION SNAKE
+## 📚 Currently Learning & Exploring
+
+I'm continuously expanding my engineering toolkit, with particular interest in:
+
+**System Design** · **Distributed Systems** · **Cloud Architecture** · **AI-Assisted Development** · **Advanced React** · **Scalable Backend Systems** · **Software Architecture**
+
+```text
+Learn
+  ↓
+Practice
+  ↓
+Build
+  ↓
+Break
+  ↓
+Debug
+  ↓
+Understand
+  ↓
+Improve
+  ↓
+Share
+```
+
+---
+
+## 🧑‍💻 A Little About How I Work
+
+I enjoy working on problems where software requires more than simply writing code.
+
+I like understanding:
+
+* **Why** the system needs to exist
+* **How** different components communicate
+* **Where** bottlenecks and failure points can occur
+* **How** to make systems easier to maintain
+* **How** developers can collaborate effectively
+* **How** to turn complex requirements into simple solutions
+
+My goal is to continuously grow toward becoming an engineer who can contribute across the entire lifecycle:
+
+**Problem → Architecture → Development → Testing → Deployment → Monitoring → Improvement**
+
+---
+
+## 📫 Let's Connect
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation" width="100%"/>
-
-</div>
-
-> **Setup:** Generate the snake SVG through a GitHub Actions workflow and commit the resulting file to your profile repository's `output` branch/path.
-
----
-
-## `08` · FEATURED PROJECTS
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🚀 PROJECT 01
-
-**[PROJECT_NAME]**
-
-> A short description of the problem this project solves and the value it provides.
-
-**Stack**
-
-`React` `Node.js` `Express` `MongoDB`
-
-**Links**
-
-[GitHub](https://github.com/YOUR_GITHUB_USERNAME/PROJECT_REPOSITORY)
-
-[Live Demo](https://YOUR_LIVE_DEMO_URL)
-
-</td>
-
-<td width="50%" valign="top">
-
-### ⚡ PROJECT 02
-
-**[PROJECT_NAME]**
-
-> A short description highlighting the engineering challenge, solution and impact.
-
-**Stack**
-
-`React` `Node.js` `REST API` `MongoDB`
-
-**Links**
-
-[GitHub](https://github.com/YOUR_GITHUB_USERNAME/PROJECT_REPOSITORY)
-
-[Live Demo](https://YOUR_LIVE_DEMO_URL)
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### 🧩 PROJECT 03
-
-**[PROJECT_NAME]**
-
-> A short description of the application, architecture or technical challenge.
-
-**Stack**
-
-`JavaScript` `React` `Express` `REST API`
-
-**Links**
-
-[GitHub](https://github.com/YOUR_GITHUB_USERNAME/PROJECT_REPOSITORY)
-
-[Live Demo](https://YOUR_LIVE_DEMO_URL)
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🧠 PROJECT 04
-
-**[PROJECT_NAME]**
-
-> A project demonstrating a specific engineering concept, architecture pattern or technical experiment.
-
-**Stack**
-
-`Node.js` `MongoDB` `Git` `REST API`
-
-**Links**
-
-[GitHub](https://github.com/YOUR_GITHUB_USERNAME/PROJECT_REPOSITORY)
-
-[Live Demo](https://YOUR_LIVE_DEMO_URL)
-
-</td>
-</tr>
-</table>
-
----
-
-## `09` · TEACHING & MENTORING
-
-<div align="center">
-
-### `LEARN → PRACTICE → BUILD → DEBUG → IMPROVE → SHARE → MENTOR → LEAD`
-
-</div>
+If you're interested in **software engineering, system design, cloud technologies, open-source projects, or simply exchanging ideas about technology**, feel free to connect.
 
 <br/>
 
-<table>
-<tr>
-<td align="center" width="12.5%"><b>01</b><br/><br/>📖<br/><br/><b>Learn</b></td>
-<td align="center" width="12.5%"><b>02</b><br/><br/>🧪<br/><br/><b>Practice</b></td>
-<td align="center" width="12.5%"><b>03</b><br/><br/>🔨<br/><br/><b>Build</b></td>
-<td align="center" width="12.5%"><b>04</b><br/><br/>🐛<br/><br/><b>Debug</b></td>
-<td align="center" width="12.5%"><b>05</b><br/><br/>📈<br/><br/><b>Improve</b></td>
-<td align="center" width="12.5%"><b>06</b><br/><br/>💡<br/><br/><b>Share</b></td>
-<td align="center" width="12.5%"><b>07</b><br/><br/>🤝<br/><br/><b>Mentor</b></td>
-<td align="center" width="12.5%"><b>08</b><br/><br/>🚀<br/><br/><b>Lead</b></td>
-</tr>
-</table>
+<a href="https://github.com/pembag">
+<img src="https://img.shields.io/badge/GitHub-pembag-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
 
-### 6+ Years of Teaching & Mentoring
-
-My teaching philosophy is centered around **learning by doing**.
-
-I focus on helping developers move from:
-
-```text
-"I know the syntax."
-        ↓
-"I understand the concept."
-        ↓
-"I can solve the problem."
-        ↓
-"I can build it."
-        ↓
-"I can explain it."
-        ↓
-"I can help someone else build it."
-```
-
-That final step is where knowledge becomes **engineering leadership**.
-
----
-
-## `10` · TECHNICAL LEADERSHIP
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### Architecture & Design
-
-* Break complex problems into manageable systems
-* Evaluate technical trade-offs
-* Encourage maintainable architecture
-* Promote reusable engineering patterns
-* Think beyond the immediate implementation
-
-</td>
-
-<td width="50%" valign="top">
-
-### Engineering Excellence
-
-* Code quality and review
-* Debugging and problem solving
-* Documentation and knowledge sharing
-* Development standards
-* Continuous improvement
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### Team Collaboration
-
-* Technical discussions
-* Pair programming
-* Mentoring developers
-* Constructive code reviews
-* Knowledge transfer
-
-</td>
-
-<td width="50%" valign="top">
-
-### Growth & Learning
-
-* Encourage experimentation
-* Learn emerging technologies
-* Turn theory into practical projects
-* Share knowledge
-* Build a culture of curiosity
-
-</td>
-</tr>
-</table>
-
----
-
-## `11` · CURRENTLY EXPLORING
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=2400&pause=800&color=7C3AED&center=true&vCenter=true&width=750&lines=Exploring+modern+software+architecture;Deepening+full-stack+engineering+skills;Experimenting+with+AI-assisted+development;Studying+system+design+and+scalable+systems;Learning%2C+building+and+sharing" alt="Currently exploring"/>
+<a href="https://www.linkedin.com/pemba-gurung">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
 
 </div>
 
+---
+
+<div align="center">
+
+### ⚡ **Build software that solves real problems.**
+
 <br/>
 
-```text
-┌──────────────────────────────────────────────────────────┐
-│ CURRENT FOCUS                                            │
-├──────────────────────────────────────────────────────────┤
-│                                                          │
-│  ▸ Full-Stack Engineering                                │
-│  ▸ Software Architecture                                 │
-│  ▸ System Design                                         │
-│  ▸ AI-Assisted Development                               │
-│  ▸ Developer Productivity                               │
-│  ▸ T
-```
+**Learn → Build → Improve → Share**
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:2563EB,100:00D9FF&height=100&section=footer" width="100%"/>
+
+</div>
