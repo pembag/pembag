@@ -6,13 +6,13 @@
   alt="Pemba Gurung — Full-Stack Software Engineer"
 />
 
-**Building scalable software · Designing reliable systems · Solving real-world problems**
-
-<br/>
-
 **Backend • Frontend • Cloud • Distributed Systems**
 
 `Java` `Spring Boot` `React` `Node.js` `TypeScript` `AWS`
+
+<br/>
+
+**Building scalable software · Designing reliable systems · Solving real-world problems**
 
 <br/><br/>
 
@@ -248,11 +248,13 @@ Refactor & improve
 <div align="center">
 
 <a href="https://github.com/pembag">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=pembag&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=79C0FF&text_color=C9D1D9&include_all_commits=true" alt="Pemba's GitHub Stats"/>
+  <img src="https://img.shields.io/badge/Projects%20%26%20Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Projects & Code"/>
 </a>
 
-<a href="https://github.com/pembag">
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pembag&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" alt="Top Languages"/>
+&nbsp;&nbsp;
+
+<a href="https://www.linkedin.com/in/pembag">
+  <img src="https://img.shields.io/badge/Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Let's Connect"/>
 </a>
 
 <br/><br/>
