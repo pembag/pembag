@@ -42,12 +42,12 @@ My engineering experience spans the full application lifecycle — from **backen
 
 | Area                      | Experience                                                          |
 | ------------------------- | ------------------------------------------------------------------- |
-| **Backend Engineering**   | Java, Spring Boot, Spring Security, REST APIs, Python, Node.js       |
-| **Frontend Engineering**  | React.js, JavaScript, TypeScript                           |
+| **Backend Engineering**   | Java, Spring Boot, Spring Security, REST APIs, Python, Node.js      |
+| **Frontend Engineering**  | React.js, JavaScript, TypeScript, Angular                           |
 | **Cloud & DevOps**        | AWS, Docker, Kubernetes, CI/CD                                      |
-| **Data & Messaging**      | PostgreSQL, Oracle, SQL Server, MongoDB, Kafka, Redis               |
-| **Architecture**          | Microservices, Event-Driven Systems, API Integration                |
-| **Engineering Practices** | Secure Development, Testing, Code Quality, Debugging, Collaboration |
+| **Data & Messaging**      | PostgreSQL, Oracle, SQL Server, MySQL, MongoDB, Kafka, Redis        |
+| **Architecture**          | Microservices, Event-Driven Systems, API Integration, MVC           |
+| **Engineering Practices** | Secure Development, Testing, Code Quality, Debugging, Agile, Collaboration |
 
 ---
 
@@ -56,7 +56,7 @@ My engineering experience spans the full application lifecycle — from **backen
 ### Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=java,spring,nodejs,express&theme=dark" alt="Backend technologies"/>
+<img src="https://skillicons.dev/icons?i=java,spring,nodejs,express,python&theme=dark" alt="Backend technologies"/>
 </p>
 
 **Java · Spring Boot · Spring Security · Microservices · Node.js · Express.js · REST APIs · Python**
