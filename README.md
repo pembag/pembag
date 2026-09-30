@@ -265,26 +265,6 @@ Refactor & improve
 
 ---
 
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=pembag&bg_color=0D1117&color=58A6FF&line=2563EB&point=79C0FF&area=true&hide_border=true" width="100%" alt="GitHub Contribution Activity"/>
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/pembag/pembag/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub Contribution Snake"/>
-
-</div>
-
----
-
 ## 📚 Currently Learning & Exploring
 
 I'm continuously expanding my engineering toolkit, with particular interest in:
