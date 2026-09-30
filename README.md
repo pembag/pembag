@@ -1,20 +1,27 @@
 <div align="center">
 
-# 👋 Hi, I'm Pemba Gurung
+<img
+  src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=190&section=header&text=PEMBA%20GURUNG&fontSize=50&fontColor=58A6FF&fontAlignY=36&desc=FULL-STACK%20SOFTWARE%20ENGINEER%20%7C%20BACKEND%20%26%20CLOUD&descAlignY=58&descSize=16&descColor=C9D1D9&animation=fadeIn"
+  width="100%"
+  alt="Pemba Gurung — Full-Stack Software Engineer"
+/>
 
-### Full-Stack Software Engineer
+<br/>
 
-**Java • Spring Boot • React • Node.js • TypeScript • AWS • Microservices**
+### `BUILD` · `SOLVE` · `IMPROVE` · `LEARN`
 
-Building scalable applications, secure APIs, cloud-native systems, and reliable software across **financial services, healthcare, energy, and technology**.
+**Java · Spring Boot · React · Node.js · TypeScript · AWS · Microservices**
 
 <br/>
 
 <a href="https://github.com/pembag">
-  <img src="https://img.shields.io/badge/GitHub-pembag-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/Projects%20%26%20Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Projects & Code"/>
 </a>
-<a href="https://www.linkedin.com/pembag">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+
+&nbsp;&nbsp;
+
+<a href="https://www.linkedin.com/in/pembag">
+  <img src="https://img.shields.io/badge/Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Let's Connect"/>
 </a>
 
 </div>
