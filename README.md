@@ -8,7 +8,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,50:2563EB,100:7C3AED&height=220&section=header&text=AKSHAT%20TIWARI&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=Technical%20Lead%20%7C%20Developer%20%7C%20Mentor%20%7C%20Educator&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,50:2563EB,100:7C3AED&height=220&section=header&text=PEMBA%20GURUNGI&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=Technical%20Lead%20%7C%20Developer%20%7C%20Mentor%20%7C%20Educator&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
 <br/>
 
